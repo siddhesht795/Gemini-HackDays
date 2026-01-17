@@ -1,0 +1,7 @@
+.venv311
+venv
+.env
+./chroma_memory
+*/chroma_memory
+*/node_modules
+./node_modules
